@@ -1,0 +1,3 @@
+([('googleTransApp',
+   '/Users/jinyoungkim/Desktop/PYTHON_BIG_DATA/python_worksapce/python_040124/googleTransApplication_040124/dist/googleTransApp',
+   'EXECUTABLE')],)
